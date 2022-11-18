@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb://localhost:27017/jobBoard",
+    "jwtToken": "1oJ1F64UMX", 
+    "jwtSession": false,
+    "emailjs": "EsMNItqXBdepRGgbQ"
+}
